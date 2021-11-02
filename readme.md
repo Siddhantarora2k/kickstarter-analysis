@@ -15,7 +15,7 @@ By looking at the analysis of the outcomes based on launch date:
 I conclude that May, June, July are the best months to launch a play campaign as the chart clearly depicts, According to historical Data; May was the most successful month for the play campaign, followed by June and July.
 While the worst time to launch a play campaign was in December which has the lowest success Rate and a very high failure rate.
 ### Analysis of Outcomes Based on Goals
-As we look at the chart on outcomes based on goals, it is clear that Play campaigns which had a goal of "9999 to 14999" were 100% successfull, followed by campaigns which had a budget of greater than 50000 and less than 1000, respectively.
+As we look at the chart on outcomes based on goals, it is clear that Play campaigns which had a goal of "9999 to 14999" were 100% successfull, followed by campaigns which had a goal of greater than 50000 and less than 1000, respectively.
 while goal between "44999 to 49999" were the most failed followed by goals between "24999 and 34999"
 ### Challenges and Difficulties Encountered
 
